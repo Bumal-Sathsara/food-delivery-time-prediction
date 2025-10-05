@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-You can try the live demo here: [Food Delivery Time Predictor](https://your-app-name.streamlit.app)
+You can try the live demo here: [Food Delivery Time Predictor](https://bumal-sathsara-food-delivery-time-prediction.streamlit.app/predictor)
 
 ## 🚀 Deploy Your Own
 
