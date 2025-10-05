@@ -7,7 +7,7 @@ A machine learning web application built with Streamlit that predicts food deliv
 **🌐 [Access the Live App](https://bumal-sathsara-food-delivery-time-prediction.streamlit.app/predictor)**
 
 ## 📺 Project Video  
-[Watch the video here](https://mysliit-my.sharepoint.com/:v:/g/personal/it22072238_my_sliit_lk/Eb2rTSVhMqVPttM-dJwCFGIBG7cw__3ClDAUX8NGUXSVrg?nav=...)
+[Watch the video here](https://mysliit-my.sharepoint.com/:v:/g/personal/it22072238_my_sliit_lk/Eb2rTSVhMqVPttM-dJwCFGIBG7cw__3ClDAUX8NGUXSVrg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=be7r4n)
 
 
 ## ✨ Features
